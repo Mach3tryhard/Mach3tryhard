@@ -6,4 +6,4 @@
            \/       \/                 \/                    \/    \/       \/           \/         \//_____/  
 
 [![mach3tryhard's GitHub stats](https://github-readme-stats.vercel.app/api?username=mach3tryhard&show_icons=true&theme=transparent)](https://github.com/mach3tryhard/github-readme-stats)
-[![mach3tryhard's GitHub stats](https://github-readme-stats.vercel.app/api?username=mach3tryhard&show_icons=true&theme=transparent)](https://github.com/mach3tryhard/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mach3tryhard&show_icons=true&theme=transparent)](https://github.com/mach3tryhard/github-readme-stats)
