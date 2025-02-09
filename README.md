@@ -12,7 +12,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 (_") ("_)(__) (__)(_")("_)(_")("_)    (__)       \_)-'  '-(_/     (__)   (__)  (__)(_")("_)(__)_)
 ```
 
-<hr/>
+<br/>
 
 {  
 
@@ -22,10 +22,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 * 💻 `Favorite lang`: **C++**  
 
 }
-
 <br/>
-
-<h2 align="center">☕ Statistics</h2>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Mach3tryhard&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -37,9 +34,9 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
     <img src="https://github-profile-trophy.vercel.app/?username=Mach3tryhard"/>
 </p>
 
-<h2 align="center">🌱 My Skills</h2>
+<br/>
 
-<h4 align="center">💻 Programming languages (and html)</h4>
+<h4 align="center">Programming languages (and html)</h4>
 
 <p align="center">
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -55,7 +52,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 <a href="https://github.com/search?q=user%3ASammwyy1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 </p>
 
-<h4 align="center">📚 Frameworks and Libraries</h4>
+<h4 align="center">Frameworks and Libraries</h4>
 
 <p align="center">
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
@@ -65,7 +62,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 <a href="#"><img alt="Three.js" src="https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff">
 </p>
 
-<h4 align="center">🕹️ Game Engines</h4>
+<h4 align="center">Game Engines</h4>
 
 <p align="center">
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?logo=unity&logoColor=white"></a>
@@ -73,7 +70,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 </p>
 
 
-<h4 align="center">⚙ Software</h4>
+<h4 align="center">Software</h4>
 
 <p align="center">
 <a href="#"><img alt="Arch" src="https://img.shields.io/badge/-Arch%20Linux-grey?logo=archlinux"></a>
@@ -85,7 +82,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 <a href="#"><img alt="Krita" src="https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B"></a>
 </p>
 
-<h4 align="center">☁ Cloud and Providers</h4>
+<h4 align="center">Cloud and Providers</h4>
 
 <p align="center">
 <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -94,6 +91,6 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 
 <br/>
 
-<h2 align="center">📌 Pinned Repositories</h2>
+<h2 align="center">Pinned Repositories</h2>
 <p align="center">Take a look at my repositories.</p>
 
