@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Mach3tryhard&color=FFFFFF"/>
+    <img src="https://komarev.com/ghpvc/?username=Mach3tryhard&color=000000"/>
 </p>
 
 ```plaintext
@@ -58,7 +58,6 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 <h4 align="center">📚 Frameworks and Libraries</h4>
 
 <p align="center">
-
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"></a>
