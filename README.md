@@ -18,7 +18,7 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 
 * 👂 `My name is`: **Matei Sîrghe**,
 * ⚡ `I'm`: **19 years old**,
-* 🌱 `I’m currently learning`: **Rust**,
+* 🌱 `I’m currently learning`: **C++**,
 * 💻 `Favorite lang`: **C++**  
 
 }
