@@ -22,12 +22,6 @@ U|  _  |u | |___  \| |/__ \| |/__.-,_| |_| |     /\ \ /\ / /\.-,_| |_| |  |  _ <
 * 💻 `Favorite lang`: **C++**  
 
 }
-<br/>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Mach3tryhard&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Mach3tryhard&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-</p>
 
 <br/>
 
