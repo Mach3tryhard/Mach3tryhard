@@ -15,6 +15,6 @@
 ### 📬 Let's Connect
 
 * **Portfolio Website:** [mach3tryhard.github.io](https://mach3tryhard.github.io/)
-* **Leetcode ** [mateisirghe](https://leetcode.com/u/mateisirghe/)
+* **Leetcode:** [mateisirghe](https://leetcode.com/u/mateisirghe/)
 * **LinkedIn:** [Matei-Ștefan Sîrghe](https://www.linkedin.com/in/matei-sirghe-b56783312/)
 * **GitHub:** [@Mach3tryhard](https://github.com/Mach3tryhard)
