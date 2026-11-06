@@ -1,6 +1,6 @@
-# Hi there, I'm Sîrghe Matei-Ștefan 👋
+# Hi there, I'm Sîrghe Matei-Ștefan
 
-### 🚀 3rd-Year Computer Science Student @ FMI Bucharest | C++ & Algorithms Enthusiast
+### 3rd-Year Computer Science Student @ FMI Bucharest | C++ & Algorithms Enthusiast
 
 ### 💻 About Me
 
@@ -12,7 +12,7 @@
 
 * 🎮 **Game Engines & Software:** Deeply interested in game engines and understanding how they work behind the scenes.
 
-### 📬 Let's Connect
+### Let's Connect
 
 * **Portfolio Website:** [mach3tryhard.github.io](https://mach3tryhard.github.io/)
 * **Leetcode:** [mateisirghe](https://leetcode.com/u/mateisirghe/)
